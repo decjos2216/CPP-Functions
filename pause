@@ -1,0 +1,10 @@
+//Pause function
+
+#ifndef   <iostream>
+#define   <iostream>
+
+void pause {
+  cout << "Press enter to continue...";
+  cin.get();
+  cin.ignore();
+}
